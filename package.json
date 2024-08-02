@@ -1,0 +1,19 @@
+{
+  "name": "mazerunner",
+  "version": "1.0.0",
+  "description": "Maze runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samschiffer/MazeRunner.git"
+  },
+  "author": "Sam Schiffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samschiffer/MazeRunner/issues"
+  },
+  "homepage": "https://github.com/samschiffer/MazeRunner#readme"
+}
